@@ -1,0 +1,14 @@
+# Claude Code internals — not for version control
+.claude/
+CLAUDE.md
+
+# Generated output — rebuild with merge.sh
+book_complete.md
+
+# Windows metadata
+desktop.ini
+Thumbs.db
+
+# Large binaries
+*.epub
+*.pdf
